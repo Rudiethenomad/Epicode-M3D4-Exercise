@@ -22,3 +22,23 @@ footer{
     display: flex;
     gap: 25px;
 }
+.monthly-deal{
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 100px;
+    text-decoration: underline;
+    color:darkblue;
+    font-style: italic;
+    
+
+}
+.summer{
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 100px;
+    text-decoration: underline;
+    color:darkblue;
+    font-style: italic;
+}
