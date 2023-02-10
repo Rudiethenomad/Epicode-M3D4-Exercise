@@ -1,5 +1,9 @@
 
-
+body{
+    background-color: lightblue;
+  
+    padding-bottom: 25px;
+}
 
 footer{
     display:flex;
@@ -90,6 +94,7 @@ footer{
     display: flex;
     justify-content: center;
     height: 200px;
+    border: solid blue;
 }
 
 
