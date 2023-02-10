@@ -6,3 +6,15 @@ footer{
     color: blue;
     justify-content: center;
 }
+.logo-sign img{
+    height: 60px;
+}
+
+.jbt{
+    min-width: 585px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    margin: 30px 50px 30px 50px;
+    border: 0.08em solid black;
+}
