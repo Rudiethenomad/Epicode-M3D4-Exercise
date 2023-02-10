@@ -75,9 +75,7 @@ footer{
   
     flex-direction: row;
 }
-span{
-    margin-left: 25px;;
-}
+
 .comments{
     display: flex;
     justify-content: center;
