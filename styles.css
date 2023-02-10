@@ -53,3 +53,26 @@ footer{
     font-style: italic;
 
 }
+.last-minute{
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 100px;
+    text-decoration: underline;
+    color:darkblue;
+    font-style: italic;
+
+}
+.company{
+    display: flex;
+    gap: 75px;
+    justify-content: center;
+
+}
+.name{
+  
+    flex-direction: row;
+}
+span{
+    margin-left: 25px;;
+}
