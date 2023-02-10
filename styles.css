@@ -15,6 +15,9 @@ footer{
 .logo-sign img{
     height: 60px;
 }
+hr{
+    background-color: blue;
+}
 
 .jbt{
     min-width: 585px;
