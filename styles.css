@@ -5,6 +5,8 @@ footer{
     display:flex;
     color: blue;
     justify-content: center;
+   
+    margin-bottom: 30px;
 }
 .logo-sign img{
     height: 60px;
@@ -76,3 +78,17 @@ footer{
 span{
     margin-left: 25px;;
 }
+.comments{
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 100px;
+    text-decoration: underline;
+    color:darkblue;
+    font-style: italic;
+}
+
+
+
+
+
