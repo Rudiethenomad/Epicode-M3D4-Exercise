@@ -1,13 +1,13 @@
 
 body{
-    background-color: lightblue;
+    background-color: rgb(5, 94, 5);
   
     padding-bottom: 25px;
 }
 
 footer{
     display:flex;
-    color: blue;
+    color: tan;
     justify-content: center;
    
     margin-bottom: 30px;
@@ -16,7 +16,7 @@ footer{
     height: 60px;
 }
 hr{
-    background-color: blue;
+    background-color: tan;
 }
 
 .jbt{
@@ -37,7 +37,7 @@ hr{
     font-weight: 900;
     font-size: 100px;
     text-decoration: underline;
-    color:darkblue;
+    color:tan;
     font-style: italic;
     
 
@@ -48,7 +48,7 @@ hr{
     font-weight: 900;
     font-size: 100px;
     text-decoration: underline;
-    color:darkblue;
+    color:tan;
     font-style: italic;
 }
 
@@ -58,7 +58,7 @@ hr{
     font-weight: 900;
     font-size: 100px;
     text-decoration: underline;
-    color:darkblue;
+    color:tan;
     font-style: italic;
 
 }
@@ -68,7 +68,7 @@ hr{
     font-weight: 900;
     font-size: 100px;
     text-decoration: underline;
-    color:darkblue;
+    color:tan;
     font-style: italic;
 
 }
@@ -89,7 +89,7 @@ hr{
     font-weight: 900;
     font-size: 100px;
     text-decoration: underline;
-    color:darkblue;
+    color:tan;
     font-style: italic;
 }
 
@@ -97,7 +97,8 @@ hr{
     display: flex;
     justify-content: center;
     height: 200px;
-    border: solid blue;
+    border: solid tan;
+    color: tan;
 }
 
 
