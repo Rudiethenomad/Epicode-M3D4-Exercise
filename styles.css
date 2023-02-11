@@ -4,6 +4,9 @@ body{
   
     padding-bottom: 25px;
 }
+.jumbo{
+    border: solid;
+}
 
 footer{
     display:flex;
@@ -25,7 +28,8 @@ hr{
     display: flex;
     justify-content: center;
     margin: 30px 50px 30px 50px;
-    border: 0.08em solid black;
+    border: 0.2em solid rgb(127, 80, 18);
+    color: tan;
 }
 .deals{
     display: flex;
