@@ -62,7 +62,7 @@ hr{
     font-style: italic;
 
 }
-.last-minute{
+#last-minute{
     display: flex;
     justify-content: center;
     font-weight: 900;
