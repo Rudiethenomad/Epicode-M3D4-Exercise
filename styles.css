@@ -100,6 +100,16 @@ hr{
     border: solid tan;
     color: tan;
 }
-
+.ddtext{
+    color:tan;
+    
+}
+.btbgc{
+    background-color: rgb(127, 80, 18);
+}
+.sbt{
+    background-color: tan;
+    color:rgb(127, 80, 18);
+}
 
 
